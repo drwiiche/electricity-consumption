@@ -5,4 +5,6 @@ Forecasting of power demand plays an essential role in the electric industry, as
 
 ## Links :
 
-https://soumilshah1995.blogspot.com/2019/08/project-data-analysis-and.html
+- https://soumilshah1995.blogspot.com/2019/08/project-data-analysis-and.html
+
+- https://www.neuraldesigner.com/blog/electricity_demand_forecasting
