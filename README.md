@@ -10,3 +10,7 @@ Forecasting of power demand plays an essential role in the electric industry, as
 - https://soumilshah1995.blogspot.com/2019/08/project-data-analysis-and.html
 
 - https://www.neuraldesigner.com/blog/electricity_demand_forecasting
+
+## Courses :
+
+i did go through the entire python path in codeacademy, it costs me some time, but it was helpful.
