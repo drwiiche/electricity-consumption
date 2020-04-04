@@ -12,3 +12,9 @@ git add [file-name.ext]
 git add -A			#add all new and changed files to stagin area
 git commit -m "message"
 git rm -r [file-name.ext]	#remove file (folder)
+
+### Inspection & Comparison
+
+git log
+git log --summary
+git log --oneline
