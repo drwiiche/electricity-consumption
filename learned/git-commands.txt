@@ -1,0 +1,14 @@
+##GIT COMMANDS
+
+### Getting and Creating projects
+
+git init
+git clone ssh://git@github.com/[username]/[repository-name].git
+
+### Basic Snapshotting
+
+git status			#check status
+git add [file-name.ext]
+git add -A			#add all new and changed files to stagin area
+git commit -m "message"
+git rm -r [file-name.ext]	#remove file (folder)
