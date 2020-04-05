@@ -17,6 +17,7 @@ https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA/videos
 
 - https://www.neuraldesigner.com/blog/electricity_demand_forecasting
 
+- http://pycon.hk/2017/topics/machine-learning-on-energy-consumption-prediction/#
 ## Courses :
 
 i did go through the entire python path in codeacademy, it costs me some time, but it was helpful.
