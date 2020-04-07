@@ -24,6 +24,11 @@ https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA/videos
 
 i did go through the entire python path in codeacademy, it costs me some time, but it was helpful.
 
+## Papers :
+
+state of the art 
+- https://eprints.qut.edu.au/128957/1/Energy%20Consumption%20Prediction%20Using%20Machine%20Learning%3B%20A%20Review.pdf
+
 ## projetcs to do :
 
 Malaria Cell Image Prediction
