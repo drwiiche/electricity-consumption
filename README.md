@@ -12,6 +12,8 @@ Forecasting of power demand plays an essential role in the electric industry, as
 https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA/videos
 
 ## Links :
+- machine learning enginner nanodegree
+	o https://github.com/tm1611
 
 - https://soumilshah1995.blogspot.com/2019/08/project-data-analysis-and.html
 
