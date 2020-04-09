@@ -22,7 +22,7 @@ https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA/videos
 - http://pycon.hk/2017/topics/machine-learning-on-energy-consumption-prediction/#
 ## Jupyter Notebooks :
 
-1- https://github.com/phlinhng/electricity-consumption-neural/blob/master/electricity%20lstm.ipynb 
+1. https://github.com/phlinhng/electricity-consumption-neural/blob/master/electricity%20lstm.ipynb 
 ## Courses :
 
 i did go through the entire python path in codeacademy, it costs me some time, but it was helpful.
