@@ -7,11 +7,13 @@ Forecasting of power demand plays an essential role in the electric industry, as
 
 - scholarvox :
 	[] raja.belaabed @ usmba.ac.ma
+
 ## youtube channels :
 
 https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA/videos
 
 ## Links :
+
 - machine learning enginner nanodegree
 	o https://github.com/tm1611
 
@@ -23,6 +25,7 @@ https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA/videos
 ## Jupyter Notebooks :
 
 1. https://github.com/phlinhng/electricity-consumption-neural/blob/master/electricity%20lstm.ipynb 
+
 ## Courses :
 
 i did go through the entire python path in codeacademy, it costs me some time, but it was helpful.
