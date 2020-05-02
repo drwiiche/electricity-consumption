@@ -16,6 +16,9 @@ this paper maybe realy good to checkout :
 https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA/videos
 
 ## Links :
+must read:
+
+- https://kanoki.org/2020/04/30/time-series-analysis-and-forecasting-with-arima-python/
 
 - machine learning enginner nanodegree
 	o https://github.com/tm1611
